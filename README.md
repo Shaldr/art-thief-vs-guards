@@ -6,7 +6,7 @@ The thief uses a utility/goal-based AI, while the guards use behaviour trees. Th
 
 Assets taken from online are credited in the [credits file](Asset%20Credits.txt), anything not credited was made by me for this project.
 
-A playable web build is available to view here: [Link](https://shaldridgea.github.io/art-thief-vs-guards)
+A playable web build is available to view here: [Link](https://shaldr.github.io/art-thief-vs-guards)
 
 Notable features and systems:
 - A simulation customisation menu for tweaking starting parameters
